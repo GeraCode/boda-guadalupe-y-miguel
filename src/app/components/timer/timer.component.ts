@@ -25,7 +25,7 @@ export class TimerComponent implements OnInit {
 
     this.clock = this.source.subscribe(t => {
       this.now = new Date(); //today
-      this.end = new Date('02/25/2022 16:00'); //party day
+      this.end = new Date('02/25/2022 17:00'); //party day
       this.showDate();
     });
   }
