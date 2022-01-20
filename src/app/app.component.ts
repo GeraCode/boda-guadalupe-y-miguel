@@ -21,7 +21,7 @@ import  partiesJson from './parties.json';
 })
 export class AppComponent {
   
-  title = 'wedding-lu';
+  title = 'boda-guadalupe-y-miguel';
 
   partyId_weddin=1;
   parties: any = partiesJson;
