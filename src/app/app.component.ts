@@ -106,17 +106,11 @@ export class AppComponent {
       title: 'Guadalupe y Miguel',
       alt: 'Guadalupe y Miguel 6'
     }, {
-      image: './assets/photos/img21.JPG',
-      thumbImage: './assets/photos/img21.JPG',
+      image: './assets/photos/img7.jpg',
+      thumbImage: './assets/photos/img7.jpg',
       title: 'Guadalupe y Miguel',
-      alt: 'Guadalupe y Miguel 21'
-    }
-    
-    
-    
-    
-    
-    , {
+      alt: 'Guadalupe y Miguel 7'
+    }, {
       image: './assets/photos/img8.jpg',
       thumbImage: './assets/photos/img8.jpg',
       title: 'Guadalupe y Miguel',
@@ -142,7 +136,7 @@ export class AppComponent {
 
 
 
-  ///////////////10-15///////////////
+  ///////////////11-15///////////////
   imgObject3: Array<object> = [
     {
       image: './assets/photos/img11.jpg',
@@ -165,49 +159,12 @@ export class AppComponent {
       title: 'Guadalupe y Miguel',
       alt: 'Guadalupe y Miguel 14'
     }, {
-      image: './assets/photos/img15.jpg',
-      thumbImage: './assets/photos/img15.jpg',
+      image: './assets/photos/img15.JPG',
+      thumbImage: './assets/photos/img15.JPG',
       title: 'Guadalupe y Miguel',
       alt: 'Guadalupe y Miguel 15'
     }
   ];
-
-
-
-    ///////////////10-15///////////////
-    imgObject4: Array<object> = [
-      {
-        image: './assets/photos/img16.jpg',
-        thumbImage: './assets/photos/img16.jpg',
-        title: 'Guadalupe y Miguel',
-        alt: 'Guadalupe y Miguel 16'
-      }, {
-        image: './assets/photos/img17.jpg',
-        thumbImage: './assets/photos/img17.jpg',
-        title: 'Guadalupe y Miguel',
-        alt: 'Guadalupe y Miguel 17'
-      }, {
-        image: './assets/photos/img18.jpg',
-        thumbImage: './assets/photos/img18.jpg',
-        title: 'Guadalupe y Miguel',
-        alt: 'Guadalupe y Miguel 18'
-      }, {
-        image: './assets/photos/img19.jpg',
-        thumbImage: './assets/photos/img19.jpg',
-        title: 'Guadalupe y Miguel',
-        alt: 'Guadalupe y Miguel 19'
-      }, {
-        image: './assets/photos/img20.jpg',
-        thumbImage: './assets/photos/img20.jpg',
-        title: 'Guadalupe y Miguel',
-        alt: 'Guadalupe y Miguel 20'
-      }
-  
-      
-      
-    ];
-  
-
 
 
 }
